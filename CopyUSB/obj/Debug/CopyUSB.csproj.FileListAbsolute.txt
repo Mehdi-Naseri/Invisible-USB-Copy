@@ -1,0 +1,15 @@
+d:\users\admin\documents\visual studio 2013\Projects\CopyUSB\CopyUSB\bin\Debug\CopyUSB.exe.config
+d:\users\admin\documents\visual studio 2013\Projects\CopyUSB\CopyUSB\bin\Debug\CopyUSB.exe
+d:\users\admin\documents\visual studio 2013\Projects\CopyUSB\CopyUSB\bin\Debug\CopyUSB.pdb
+d:\users\admin\documents\visual studio 2013\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.csprojResolveAssemblyReference.cache
+d:\users\admin\documents\visual studio 2013\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.exe
+d:\users\admin\documents\visual studio 2013\Projects\CopyUSB\CopyUSB\obj\Debug\CopyUSB.pdb
+G:\Programming\M_Programming_2014-10\WPF\CopyUSB\CopyUSB_0.0.0.2\CopyUSB\bin\Debug\CopyUSB.exe.config
+G:\Programming\M_Programming_2014-10\WPF\CopyUSB\CopyUSB_0.0.0.2\CopyUSB\obj\Debug\CopyUSB.exe
+G:\Programming\M_Programming_2014-10\WPF\CopyUSB\CopyUSB_0.0.0.2\CopyUSB\obj\Debug\CopyUSB.pdb
+F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\bin\Debug\CopyUSB.exe.config
+F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\obj\Debug\CopyUSB.exe
+F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\obj\Debug\CopyUSB.pdb
+F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\bin\Debug\CopyUSB.exe
+F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\bin\Debug\CopyUSB.pdb
+F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\obj\Debug\CopyUSB.csprojResolveAssemblyReference.cache

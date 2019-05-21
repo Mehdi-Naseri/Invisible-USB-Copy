@@ -1,0 +1,21 @@
+﻿11/29/2014 9:26:37 AM: Access to the path 'K:\System Volume Information' is denied.
+11/29/2014 9:31:06 AM: Test1
+11/29/2014 9:31:06 AM: Test2
+11/29/2014 9:31:06 AM: Test3
+11/29/2014 9:31:06 AM: The file 'F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\bin\Debug\Files\09177393373\test1.txt' already exists.
+11/29/2014 9:31:39 AM: Test1
+11/29/2014 9:31:39 AM: Test2
+11/29/2014 9:31:39 AM: Test3
+11/29/2014 9:31:39 AM: Access to the path 'K:\System Volume Information' is denied.
+11/29/2014 9:32:00 AM: Test1
+11/29/2014 9:32:00 AM: Test2
+11/29/2014 9:32:00 AM: Test3
+11/29/2014 9:32:00 AM: The file 'F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\bin\Debug\Files\09177393373\test1.txt' already exists.
+11/29/2014 9:33:00 AM: The file 'F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\bin\Debug\Files\09177393373\test1.txt' already exists.
+11/29/2014 9:33:16 AM: The file 'F:\M_Programming\MehdiProjects\WPF\CopyUSB\CopyUSB_0.0.0.3\CopyUSB\bin\Debug\Files\09177393373\test1.txt' already exists.
+5/20/2019 10:55:31 PM: Could not complete operation on some files and directories. See the Data property of the exception for more details.
+5/20/2019 10:55:31 PM: Could not find directory 'K:\Microsoft.SQL.Server.2017.Enterprise.x64'.
+5/20/2019 10:55:31 PM: Could not find directory 'K:\RecSys'.
+5/20/2019 10:55:31 PM: Could not find directory 'K:\sources'.
+5/20/2019 10:55:31 PM: Could not find directory 'K:\support'.
+5/20/2019 10:55:31 PM: Could not find directory 'K:\System Volume Information'.
